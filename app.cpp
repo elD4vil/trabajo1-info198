@@ -98,12 +98,7 @@ int main(int argc, char *argv[]){
 
 int opciones(vector<int> user) { 
     int n;
-    cout << "Contenido del vector: ";
-    for (int i = 0; i < user.size(); ++i) {
-        cout << user[i] << " ";
-    }
-    cout << endl;
-
+    
     bool opc1 = false;
     bool opc2 = false;
     bool opc3 = false;
