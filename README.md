@@ -27,3 +27,6 @@ Donde el primer argumento representa el nombre de usuario y el segundo argumento
 
 Es importante tener en la misma carpeta el archivo de texto llamado **basededatos.txt**, donde se guardarán los diferentes datos, tal como se mostró en el ejemplo anterior.
 
+Si el Usuario es valido entrara al interfaz. pero si el usuario no existe el codigo mandara un mensaje de error y se saldra el programa.
+
+En la pantalla se veran las opciones disponibles, si intenta ingresar una opcion que no se muestre en la pantalla, esto generar un error con su respectivo mensaje y pidiendo nuevamente el ingreso de alguna opcion.
