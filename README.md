@@ -23,7 +23,7 @@ Una vez que el código esté compilado, para ejecutarlo será necesario proporci
 ```./app -u Juan -v 1,2,3```
 
 
-Donde el primer argumento representa el nombre de usuario y el segundo argumento es un vector de opciones cualquiera.
+Donde el primer argumento representa el nombre de usuario y el segundo argumento es un vector con varios numeros que `deben estar separados por comas`, que puede ser los valores enteros que usted deseé.
 
 Es importante tener en la misma carpeta el archivo de texto llamado **basededatos.txt**, donde se guardarán los diferentes datos, tal como se mostró en el ejemplo anterior.
 
