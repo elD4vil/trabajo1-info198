@@ -2,9 +2,12 @@
 
 En este trabajo, mi propuesta consiste en crear una interfaz de usuario basada en la información de una base de datos almacenada en un archivo de texto. A modo de ejemplo, el archivo tiene la siguiente estructura:
 
-Matias;1,2,3 
-Juan;2,3,4 
+Matias;1,2,3
+
+Juan;2,3,4
+
 Sebastian;1 
+
 
 En esta estructura, cada línea representa un usuario seguido de una serie de números que corresponden a las opciones disponibles para ese usuario en la interfaz.
 
