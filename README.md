@@ -1,4 +1,4 @@
-# Trabajo 1: SistemaS Operativos (INFO198)
+# Trabajo 1: Sistemas Operativos (INFO198)
 
 En este trabajo, mi propuesta consiste en crear una interfaz de usuario basada en la información de una base de datos almacenada en un archivo de texto. A modo de ejemplo, el archivo tiene la siguiente estructura:
 
